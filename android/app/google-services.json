@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547569119571",
+    "project_id": "learing-app-e7a29",
+    "storage_bucket": "learing-app-e7a29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547569119571:android:24163cfa4a3b4b768a31a6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547569119571-ducvqnu76gbueiqrr55itnr3so8dclbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxe_nKuXVn_JkS7rXjWtw_2FcbmJYfx6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547569119571-ducvqnu76gbueiqrr55itnr3so8dclbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
